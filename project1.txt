@@ -3,3 +3,5 @@
 Welcome to the new project
 
 bitbucket
+jira
+mongo
